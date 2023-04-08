@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\20-43365-1\bin\Debug\LabTask3.exe.config
+C:\Users\User\Desktop\20-43365-1\bin\Debug\LabTask3.exe
+C:\Users\User\Desktop\20-43365-1\bin\Debug\LabTask3.pdb
+C:\Users\User\Desktop\20-43365-1\obj\Debug\LabPerformance1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\20-43365-1\obj\Debug\LabTask3.exe
+C:\Users\User\Desktop\20-43365-1\obj\Debug\LabTask3.pdb
+C:\Users\zarin\OneDrive\Desktop\20-43365-1\bin\Debug\LabTask3.exe.config
+C:\Users\zarin\OneDrive\Desktop\20-43365-1\bin\Debug\LabTask3.exe
+C:\Users\zarin\OneDrive\Desktop\20-43365-1\bin\Debug\LabTask3.pdb
+C:\Users\zarin\OneDrive\Desktop\20-43365-1\obj\Debug\LabPerformance1.csproj.AssemblyReference.cache
+C:\Users\zarin\OneDrive\Desktop\20-43365-1\obj\Debug\LabPerformance1.csproj.CoreCompileInputs.cache
+C:\Users\zarin\OneDrive\Desktop\20-43365-1\obj\Debug\LabTask3.exe
+C:\Users\zarin\OneDrive\Desktop\20-43365-1\obj\Debug\LabTask3.pdb
